@@ -21,5 +21,7 @@ public class App
 
 
         System.out.println("push test1");
+
+        System.out.println("abc");
     }
 }
