@@ -3,6 +3,7 @@ package org.example;
 /**
  * Hello world!
  *
+ * @author admin
  */
 public class App 
 {
@@ -11,5 +12,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!q" );
         System.out.println( "222" );
+
+        System.out.println("master - 101");
     }
 }
