@@ -15,5 +15,8 @@ public class App
 
         System.out.println("master - 101");
         System.out.println("master - 102");
+        System.out.println("hot-fix - 101");
+        System.out.println("hot-fix - 102");
+        System.out.println("h-hot-fix - 101");
     }
 }
