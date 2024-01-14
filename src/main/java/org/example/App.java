@@ -13,5 +13,6 @@ public class App
         System.out.println( "222" );
 
         System.out.println("dev-3");
+        System.out.println("hot-fix-4");
     }
 }
