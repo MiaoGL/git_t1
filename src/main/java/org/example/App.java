@@ -9,9 +9,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!q" );
-        System.out.println( "222" );
 
         System.out.println("master - 101");
         System.out.println("master - 102");
@@ -20,8 +17,8 @@ public class App
         System.out.println("h-hot-fix - 101");
 
 
-        System.out.println("push test1");
+        System.out.println("remote-commit");
 
-        System.out.println("abc");
+        
     }
 }
